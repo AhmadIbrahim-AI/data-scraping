@@ -6,8 +6,6 @@ First level I wrote the code that extracted "Best Movies Of All Time" from the M
 the columns which have been extracted are the following:
 Movie Number,Title,Rating Status,Release Date,Metascore,UserScore,movielink.
 
-second Level I  extracedt the user reviews with their rank for the first 2500 film presentend in the dataset of all Movies.it's arround 80,000 reviews and I have splited them into five CSVs with the same structure.
+Second Level I  extracedt the user reviews with their rank for the first 2500 film presentend in the dataset of all Movies.it's arround 80,000 reviews and I have splited them into five CSVs with the same structure.
 
-you are able to use these files to build any model as long as using the cde to extract more data if needed.
-
-
+You are able to use these files to build any model as long as using the code to extract more data if needed.
